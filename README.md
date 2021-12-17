@@ -9,7 +9,7 @@ Depuis la page Github de ce dépôt, faire un fork de ce même dépôt.
 Puis cloner votre fork sur votre PC (avec VSCode).
 - `Shift+CMD+P` _Git clone_ Puis _Cloner à partir de Github_ Puis choisir son fork de `tp-git`
 
-- [ ] Cochez cette checkbox en plaçant un "**X**" entre les deux `[ ]` en début de ligne.
+- [X] Cochez cette checkbox en plaçant un "**X**" entre les deux `[ ]` en début de ligne.
 - Faire un commit avec le message "test commit et push"
 - Faire un push du commit sur Github.
 
@@ -36,7 +36,7 @@ Le fichier `.gitignore` sert à indiquer à Git les fichiers qu'il doit ignorer 
     - Faire vous-même un nouveau fichier `.gitignore` à la racine.
     - Sélectionner les mêmes choix sur le site [gitignore.io]
     - Copier le contenu généré dans votre fichier `.gitignore`
-- [ ] cocher et faire commit "ajout .gitignore"
+- [X] cocher et faire commit "ajout .gitignore"
 
 [gitignore.io]: http://gitignore.io
 
